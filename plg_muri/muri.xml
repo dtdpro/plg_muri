@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<install version="1.5" type="plugin" group="content">
+	<name>Content - MUri</name>
+	<author>DtD Productions</author>
+	<creationDate>2012.06.07</creationDate>
+	<copyright>(C) 2012 </copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL v2.0</license>
+	<authorEmail>mike@ditzthedaisy.com</authorEmail>
+	<authorUrl>www.ditzthedaisy.com</authorUrl>
+	<version>1.0</version>
+	<description>This plugin will ouput the current base url for the site wherever {muri} is in content items, for those who do not have joomla in the root of a url.</description>
+	<files>
+		<filename plugin="muri">muri.php</filename>
+	</files>
+</install>

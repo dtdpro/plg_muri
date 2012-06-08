@@ -1,0 +1,41 @@
+Content - MGet
+=============
+
+This plugin will output the current uri. Works in content items only.
+
+Compatiable with Joomla 1.5-2.5
+
+Usage
+_____
+
+Place {muri} where you want the uri to be.
+
+Ex
+
+On site http://mysite.com/joomla25/content-item-seo-uel		
+
+{muri} would be replace with: joomla25
+
+
+
+Downlaod
+--------
+
+http://dl.ditzthedaisy.com/plg_muri.zip
+
+
+Installation
+------------
+
+Use Joomla Extension Installer
+
+
+License
+-------
+
+GNU/GPL v2.
+
+Credits
+-------
+
+The Joomla! team
